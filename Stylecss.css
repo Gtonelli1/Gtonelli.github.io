@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+  }
+
+  img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 12em;
+    display: block;
+}
